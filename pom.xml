@@ -10,8 +10,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>../executable-jar</module>
-        <module>../resource-filtering</module>
+        <module>executable-jar</module>
+        <module>resource-filtering</module>
     </modules>
 
     <properties>
