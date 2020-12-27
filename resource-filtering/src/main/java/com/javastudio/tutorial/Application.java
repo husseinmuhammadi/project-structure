@@ -1,4 +1,4 @@
-package com.javastudio.tutorial.pom;
+package com.javastudio.tutorial;
 
 import java.io.IOException;
 import java.io.InputStream;
